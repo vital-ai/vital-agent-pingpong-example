@@ -1,0 +1,9 @@
+api_keys:
+    openai: "open ai key here"
+
+agent_rest_api:
+    agent_rest_api_endpoint: "endpoint here"
+
+extract_service_api:
+    extract_service_pi_endpoint: "endpoint here"
+
